@@ -8,7 +8,7 @@ fn main() {
         .add_plugins(DefaultPlugins)
         .add_systems(Startup, setup)
         // ajouter le systeme move_player pour qu'il se lance a chaque frame
-        // .add_plugins ???
+        // .add_systems ???
         .run();
 }
 
