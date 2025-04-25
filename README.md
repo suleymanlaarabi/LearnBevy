@@ -43,7 +43,6 @@ pub struct SpriteSheetAnimation {
     start: usize,
     end: usize,
     timer: Timer,
-    current_frame: usize,
 }
 ```
 

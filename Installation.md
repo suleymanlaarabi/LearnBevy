@@ -21,3 +21,7 @@ sudo apt-get install lld clang
 ```shell
 rustup component add rustc-codegen-cranelift-preview --toolchain nightly
 ```
+
+## Pour les autres
+[setup](https://bevyengine.org/learn/quick-start/getting-started/setup/#rust-setup)
+[fast compile time](https://bevyengine.org/learn/quick-start/getting-started/setup/#enable-fast-compiles-optional)
